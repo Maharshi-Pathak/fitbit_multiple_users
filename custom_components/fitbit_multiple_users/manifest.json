@@ -1,7 +1,7 @@
 {
   "domain": "fitbit_multiple_users",
-  "name": "Fitbit",
-  "documentation": "https://www.home-assistant.io/integrations/fitbit",
+  "name": "Fitbit Multiple Users",
+  "documentation": "https://github.com/Maharshi-Pathak/fitbit_multiple_users",
   "requirements": [
     "fitbit==0.3.1"
   ],
