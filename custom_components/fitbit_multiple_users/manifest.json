@@ -1,5 +1,5 @@
 {
-  "domain": "fitbit",
+  "domain": "fitbit_multiple_users",
   "name": "Fitbit",
   "documentation": "https://www.home-assistant.io/integrations/fitbit",
   "requirements": [
